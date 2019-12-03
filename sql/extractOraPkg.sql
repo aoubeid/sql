@@ -15,6 +15,7 @@ prompt 1. PACKAGE
 prompt 2. PACKAGE BODY
 prompt 3. FUNCTION
 prompt 4. PROCEDURE
+Prompt 5. Table
 prompt The source code will be spooled into a file named after the source name
 prompt USAGE:
 prompt =====
